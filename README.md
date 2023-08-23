@@ -1,8 +1,8 @@
-- Hi, I’m @coltonisgod234
+# Hi, I’m @coltonisgod234
 - You May Know me From "https://scratch.mit.edu/users/coltonisgod234/"
 - I'm Currenly learning Python and Web devolopment
 - Reach Me at my gmail: "cgwollinger@gmail.com" (buisness only)
-
+CLICK IT: https://coltonisgod234.github.io/ JUST CLICK IT, JUST DO IT. DO IT. JUST DO, CLICK THAT LINK, DO IT, JUST CLICK IT.
 <!---
 coltonisgod234/coltonisgod234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
