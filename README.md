@@ -7,8 +7,7 @@ I'm a strange, uncallable function, `fix(p)` where `p` is of type `enum { }` and
 
 ## About the name...
 Right now, you can call me "PersonP" (/pərson.'pə/) or "predicate."
-You can also call me "Artemis," or by an even older name
-"Colton" if you really don't feel comfortable with those others (some day, I'll stop letting you do that!)
+You can also call me "Artemis," or my real name "Colton."
 
 I don't care about pronouns as long as they're actual English pronouns and not neopronouns.
 
